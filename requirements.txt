@@ -1,0 +1,13 @@
+Flask==0.10.1
+Flask-Cors==2.1.2
+Flask-Script==2.0.5
+Flask-WTF==0.12
+ipython==4.1.2
+ipython-genutils==0.1.0
+Jinja2==2.8
+numpy==1.10.4
+urllib3==1.15.1
+pandas
+matplotlib
+scipy
+statistics
